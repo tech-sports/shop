@@ -1,0 +1,17 @@
+h1 {text-align: center;
+          font-family: serif;}
+        table {border-collapse:collapse;
+            	width:100%;
+                text-align: center;}
+        td, th {border:2px solid black;
+                    padding:8px;
+                    background-color: rgb(207, 23, 23)}
+        body {background-color: rgb(237, 52, 52)}
+        .products {background-color: black}
+		img {border: 2px solid black;}
+		.parag {background-color: rgb(207, 23, 23);
+        	  border: solid;
+        	  border-color: black;
+        	  border-radius: 25px;}
+         .images {text-align: center;}
+          p {margin-left: 10px;}
